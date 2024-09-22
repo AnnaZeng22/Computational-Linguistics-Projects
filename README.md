@@ -23,4 +23,4 @@ e. The meaning of an expression EFA is + when the meaning of E is + and the mean
 
 f. The meaning of an expression EFB is + when E and F have the same meaning and - otherwise JL does not use parentheses because it is completely unambiguous. The standard notation ((p → q) → r) translates into JL as pqCrC and (p → (q → r)) translates as pqrCC.
 
-#adapted from UCL PLIN0034 coursework.
+Note：adapted from UCL PLIN0034 coursework.
